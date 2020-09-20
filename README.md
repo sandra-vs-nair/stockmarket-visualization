@@ -1,6 +1,6 @@
 # Candlestick chart of stock-market data using python.
 
-This project demonstrates the creation of a candlestick chart of the stock-market data. The data is collected using pandas_datareader library which can import data from a number of online sources like google, yahoo etc. The candlestick chart is made using bokeh library. It is then saved as as file Candlestick.html and displayed in your default browser.
+This project demonstrates the creation of a candlestick chart of the stock-market data. The data is collected using pandas_datareader library which can import data from a number of online sources like google, yahoo etc. The candlestick chart is made using bokeh library. It is then saved as file Candlestick.html and displayed in your default browser.
 
 ## Prerequisites
 
